@@ -1,3 +1,0 @@
-Build/* filter=lfs diff=lfs merge=lfs -text
-StreamingAssets/* filter=lfs diff=lfs merge=lfs -text
-Web.wasm filter=lfs diff=lfs merge=lfs -text
